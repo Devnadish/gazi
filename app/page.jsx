@@ -121,7 +121,7 @@ const Hero = () => {
   return (
     <>
       <Image
-        src="/gallary/2.jpg"
+        src="/gallary/background.png"
         width={0}
         height={0}
         style={{ width: "100%", height: "auto" }}
